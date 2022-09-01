@@ -6,3 +6,4 @@ Display current directory contents, including hidden files
 display long dir formats, with user id and hiddenfiles
 diplaying in long formats,with ids and showing hidden files
 Create a script that creates a directory
+Moving a file betty

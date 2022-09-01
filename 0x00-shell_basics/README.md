@@ -9,3 +9,7 @@ Create a script that creates a directory
 Moving a file betty
 deleting the file betty
 ddeleting the directory myfirstdirectory
+[master d3131ce] how to go back to previous dir
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/10-back
+how to go back to previous dir

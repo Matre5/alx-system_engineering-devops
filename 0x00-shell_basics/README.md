@@ -14,3 +14,4 @@ ddeleting the directory myfirstdirectory
  create mode 100755 0x00-shell_basics/10-back
 how to go back to previous dir
 a script that list all files including the parent directorty and hidden files
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.

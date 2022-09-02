@@ -13,3 +13,4 @@ ddeleting the directory myfirstdirectory
  1 file changed, 2 insertions(+)
  create mode 100755 0x00-shell_basics/10-back
 how to go back to previous dir
+a script that list all files including the parent directorty and hidden files

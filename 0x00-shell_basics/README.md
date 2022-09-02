@@ -22,3 +22,4 @@ moves all files starting with uppercase to the u directory
 cleaning emac files
 creating multiple files
 commas
+switches user

@@ -6,3 +6,4 @@ printing username
  5. Executing hello file
  6.Multiple permissions ; user execute, group same,others read only
  7.Everybody has permission to execute only
+no permission to anybody but the other user

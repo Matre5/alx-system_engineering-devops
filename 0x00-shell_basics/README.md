@@ -18,3 +18,4 @@ Write a script that prints the type of the file named iamafile. The file iamafil
 symbloic link
 copying htmml files
 deleting a dir
+moves all files starting with uppercase to the u directory

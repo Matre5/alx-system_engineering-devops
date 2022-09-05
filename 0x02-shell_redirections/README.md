@@ -14,3 +14,4 @@ This is a shell redirections topic
  Display file new to old, one file per line
  Using unique and sort
 displaying files containg the pattern root
+Count all the lines with bin in them

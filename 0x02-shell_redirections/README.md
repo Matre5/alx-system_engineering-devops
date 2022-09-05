@@ -1,0 +1,2 @@
+This is a shell redirections topic
+ TASK 1. Write a script that prints “Hello, World”, followed by a new line to the standard output.

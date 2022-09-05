@@ -13,3 +13,4 @@ This is a shell redirections topic
  Counting the number of directories all but current diretories
  Display file new to old, one file per line
  Using unique and sort
+displaying files containg the pattern root

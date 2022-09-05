@@ -6,3 +6,4 @@ This is a shell redirections topic
  Display the last ten lines of a file
  Displaying the first 10 lines
  Display the third line of the file iacta
+ Creating a file and putting a content inside

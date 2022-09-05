@@ -7,3 +7,4 @@ This is a shell redirections topic
  Displaying the first 10 lines
  Display the third line of the file iacta
  Creating a file and putting a content inside
+ TASK 7

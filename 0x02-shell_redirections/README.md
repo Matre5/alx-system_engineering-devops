@@ -4,3 +4,4 @@ This is a shell redirections topic
  Display the content of a file
  Displaying two files
  Display the last ten lines of a file
+ Displaying the first 10 lines

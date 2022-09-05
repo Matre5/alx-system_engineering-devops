@@ -18,3 +18,4 @@ Count all the lines with bin in them
  Displaying pattern with root and 3 lines after 
  Dont show files with bin
  Dont show files with bin
+ Display files

@@ -3,3 +3,4 @@ This is a shell redirections topic
  Write a script that displays a confused smiley  
  Display the content of a file
  Displaying two files
+ Display the last ten lines of a file

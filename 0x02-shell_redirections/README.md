@@ -8,3 +8,4 @@ This is a shell redirections topic
  Display the third line of the file iacta
  Creating a file and putting a content inside
  TASK 7
+ Writimg into files

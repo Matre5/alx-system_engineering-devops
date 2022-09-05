@@ -20,3 +20,4 @@ Count all the lines with bin in them
  Dont show files with bin
  Display files
  Replacing letters
+ Removing all c and C

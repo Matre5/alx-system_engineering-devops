@@ -15,3 +15,4 @@ This is a shell redirections topic
  Using unique and sort
 displaying files containg the pattern root
 Count all the lines with bin in them
+ Displaying pattern with root and 3 lines after 

@@ -11,3 +11,4 @@ This is a shell redirections topic
  Writimg into files
  Appending the file with the last line of the file
  Counting the number of directories all but current diretories
+ Display file new to old, one file per line

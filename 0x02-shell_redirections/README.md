@@ -9,3 +9,4 @@ This is a shell redirections topic
  Creating a file and putting a content inside
  TASK 7
  Writimg into files
+ Appending the file with the last line of the file

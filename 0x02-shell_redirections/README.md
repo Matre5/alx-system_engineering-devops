@@ -10,3 +10,4 @@ This is a shell redirections topic
  TASK 7
  Writimg into files
  Appending the file with the last line of the file
+ Counting the number of directories all but current diretories

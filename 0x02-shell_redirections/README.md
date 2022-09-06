@@ -21,3 +21,5 @@ Count all the lines with bin in them
  Display files
  Replacing letters
  Removing all c and C
+ Reversing 
+ Reversing inputs 

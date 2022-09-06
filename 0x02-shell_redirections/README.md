@@ -26,3 +26,5 @@ Count all the lines with bin in them
 Displaying a sorted list of user and directories
  Write a script that displays all users and their home directories, sorted by users.
 Script that displays home dirs and users, sorted by users
+ TASK 23
+ADVANCED

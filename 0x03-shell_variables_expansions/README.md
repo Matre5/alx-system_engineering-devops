@@ -13,3 +13,4 @@ TASK8 adding 128 to the value stored in a variable
  TASK11 script that converts decimal to binary
  TASK12 print all possible cobinations in a-z without using oo
  TASK 13 printing numbers in floats
+ ADVANCED

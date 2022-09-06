@@ -23,3 +23,5 @@ Count all the lines with bin in them
  Removing all c and C
  Reversing 
  Reversing inputs 
+Displaying a sorted list of user and directories
+ Write a script that displays all users and their home directories, sorted by users.
